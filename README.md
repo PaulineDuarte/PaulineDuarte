@@ -1,8 +1,8 @@
 ### Hello everyone, I'm Pauline.
 
-<div align="left">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulineDuarte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulineDuarte&layout=compact&langs_count=16&theme=radical"/>
+<div >
+   <img align = "center" height="175" src="https://github-readme-stats.vercel.app/api?username=PaulineDuarte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulineDuarte&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
 
